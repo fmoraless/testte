@@ -9,7 +9,7 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
     <meta name="description" content="Adminlte-laravel - {{ trans('adminlte_lang::message.landingdescription') }} ">
     <meta name="author" content="Sergi Tur Badenas - acacha.org">
 
-    <meta property="og:title" content="Adminlte-laravel" />
+    <meta property="og:title" content="Panel DyP" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="Adminlte-laravel - {{ trans('adminlte_lang::message.landingdescription') }}" />
     <meta property="og:url" content="http://demo.adminlte.acacha.org/" />
@@ -45,7 +45,7 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><b>adminlte-laravel</b></a>
+                <a class="navbar-brand" href="#"><b>Gestión Taller</b></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
@@ -275,10 +275,10 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
     <div id="c">
         <div class="container">
             <p>
-                <a href="https://github.com/acacha/adminlte-laravel"></a><b>admin-lte-laravel</b></a>. {{ trans('adminlte_lang::message.descriptionpackage') }}.<br/>
-                <strong>Copyright &copy; 2015 <a href="http://acacha.org">Acacha.org</a>.</strong> {{ trans('adminlte_lang::message.createdby') }} <a href="http://acacha.org/sergitur">Sergi Tur Badenas</a>. {{ trans('adminlte_lang::message.seecode') }} <a href="https://github.com/acacha/adminlte-laravel">Github</a>
+                <a href="https://github.com/acacha/adminlte-laravel"></a><b>gestión-dyp</b></a>. {{ trans('adminlte_lang::message.descriptionpackage') }}.<br/>
+                <strong>Copyright &copy; 2019 <a href="http://acacha.org">Kaufmann.cl</a>.</strong> {{ trans('adminlte_lang::message.createdby') }} <a href="http://acacha.org/sergitur">Sergi Tur Badenas</a>. {{ trans('adminlte_lang::message.seecode') }} <a href="https://github.com/acacha/adminlte-laravel">Github</a>
                 <br/>
-                AdminLTE {{ trans('adminlte_lang::message.createdby') }} Abdullah Almsaeed <a href="https://almsaeedstudio.com/">almsaeedstudio.com</a>
+                Gestión DyP {{ trans('adminlte_lang::message.createdby') }} Francisco Morales <a href="https://almsaeedstudio.com/">almsaeedstudio.com</a>
                 <br/>
                  Pratt Landing Page {{ trans('adminlte_lang::message.createdby') }} <a href="http://www.blacktie.co">BLACKTIE.CO</a>
             </p>
